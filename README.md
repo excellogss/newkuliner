@@ -1,4 +1,4 @@
-### Sistem Pemesanan Barang Berbasis QR Code - ID
+## Sistem Pemesanan Barang Berbasis QR Code - ID
 
 Mengembangkan aplikasi pemesanan barang berbasis web yang memanfaatkan teknologi QR Code untuk mempermudah proses pemesanan dan meningkatkan pengalaman pengguna. Pelanggan dapat melakukan pemindaian QR Code untuk langsung mengakses daftar produk, melakukan pemesanan, serta mengirimkan permintaan pembelian tanpa memerlukan proses manual.
 
@@ -18,7 +18,7 @@ PHP, CodeIgniter/Laravel, JavaScript, Bootstrap, MySQL, QR Code Integration, RES
 
 
 
-### QR Code Self-Ordering Web Application - EN
+## QR Code Self-Ordering Web Application - EN
 
 Designed and developed a web-based self-ordering platform that allows customers to scan a QR Code and place orders directly from their smartphones. The solution eliminates manual ordering processes, enhances operational efficiency, and improves customer convenience.
 
@@ -34,3 +34,20 @@ The application includes menu management, order processing, real-time order stat
 **Technologies:**
 PHP, CodeIgniter, MySQL, Bootstrap, JavaScript, QR Code Technology, REST API.
 
+
+## Preview
+<table>
+  <tr>
+    <!-- Kolom Kiri: Gambar Pertama -->
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/18924319-588b-41c3-a949-3c94b4bebe82" alt="New Kuliner Screenshot 1" width="100%">
+    </td>
+    <!-- Kolom Kanan: Penjelasan Gambar Pertama -->
+    <td width="50%" align="center">
+      <p>Hiraukan login yang muncul banyak bawaan full screenshot</p>
+      <img src="https://github.com/user-attachments/assets/bf91fb65-1973-4be4-9845-71aa9be073af" alt="New Kuliner Screenshot 2" width="100%">
+    </td>
+  </tr>
+</table>
+
+<br>
