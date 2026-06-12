@@ -1,5 +1,4 @@
-ID
-### Sistem Pemesanan Barang Berbasis QR Code
+### Sistem Pemesanan Barang Berbasis QR Code - ID
 
 Mengembangkan aplikasi pemesanan barang berbasis web yang memanfaatkan teknologi QR Code untuk mempermudah proses pemesanan dan meningkatkan pengalaman pengguna. Pelanggan dapat melakukan pemindaian QR Code untuk langsung mengakses daftar produk, melakukan pemesanan, serta mengirimkan permintaan pembelian tanpa memerlukan proses manual.
 
@@ -19,8 +18,7 @@ PHP, CodeIgniter/Laravel, JavaScript, Bootstrap, MySQL, QR Code Integration, RES
 
 
 
-EN
-### QR Code Self-Ordering Web Application
+### QR Code Self-Ordering Web Application - EN
 
 Designed and developed a web-based self-ordering platform that allows customers to scan a QR Code and place orders directly from their smartphones. The solution eliminates manual ordering processes, enhances operational efficiency, and improves customer convenience.
 
